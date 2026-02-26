@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.apyra.nvim-unity": "https://github.com/apyra/nvim-unity.git",
     "com.spoiledcat.git": "1.0.62",
     "com.spoiledcat.git.ui": "1.0.62",
     "com.unity.2d.animation": "13.0.4",
